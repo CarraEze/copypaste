@@ -1,0 +1,82 @@
+                                                                                                     22/10/2025
+ -------------------------------------------------------------------------------------------------------------
+  Inventario de Productos (sin agrupar)                                                     Al día : 22/10/2025
+
+  Código     Nombre del Producto        Cantidad           Código    Nombre del Producto        Cantidad
+
+  VICOM#CADA06  ADAPTADOR DE RED A USB     1,00           ININD#ICIN01  CINTURON PORTA HERRAMIENTAS 1,00
+  INFER#FTEC02  AGUJEREADORA PARA TECNICO  1,00           INFER#FCRI02  CRIMPEADORA FICHA BNC DE COMPRESI1,00
+  VICOM#CALA01  ALARGUE HDMI X 10MTS       1,00           INFER#FCRI01  CRIMPEADORA FICHA RJ45      1,00
+  VICOM#CALA13  ALARGUE USB X 3MTS         1,00           INFER#FCUT01  CUTTER                      2,00
+  VICOM#CALA07  ALARGUE VGA X 10MTS        1,00           INFER#FDES02  DESTORNILLADOR PHILIPS      1,00
+  INFER#FALI01  ALICATE                    1,00           INFER#FDES01  DESTORNILLADOR PLANO        1,00
+  INFER#FAMO02  AMOLADORA CHICA            1,00           INELE#EENC01  ENCHUFE MACHO 3 PATAS       1,00
+  ININD#ILEN01  ANTEOJO PROTECTOR DE SEGURIDAD1,00        VICON#CFIC06  FICHA ADAPTADOR DVI-HDMI    2,00
+  ININD#IARN01  ARNES                      1,00           VICON#CFIC07  FICHA BNC HEMBRA-HEMBRA    10,00
+  CAELE#ASPI01  ASPIRADORA YELMO           1,00           VICON#CFIC02  FICHA BNC VIDEO            10,00
+  VICON#CBAL04  BALUN ACTIVO               2,00           INELE#EFIC02  FICHA HEMBRA 3 PATAS        1,00
+  VICON#CBAL02  BALUN PASIVO HD PACK X 2   6,00           VICON#CFIC03  FICHA RJ-45 PARA CRIMPEO   50,00
+  ACBAR#BBAI02  BARRERA INFRARROJA TAKEX 2 HAZ 1001,00    INELE#EFOT03  FOTOCONTROL COMPACTO        5,00
+  ALBAT#BBAT02  BATERIA 12V 7,5AMP         1,00           VIFUE#FFUE04  FUENTE 12V-2A              12,00
+  CAELE#ETAL02  CABLE TPR 2 X 1,5MM X METRO70,00          VIFUE#FFUE24  FUENTE 12V-5A               2,00
+  CAUTP#UUTP01  CABLE UTP CAT 5 X METRO  100,00           VIFUE#FFUE33  FUENTE AUXILIAR PS-3020     2,00
+  INFER#FCDH01  CAJA DE HERRAMIENTAS PLASTICA1,00         INELE#ELED05  ILUMINADOR INGAL ELA-S10-PR10F3,00
+  INELE#ECES01  CAJA ESTANCA PR 1003/110 20X202,00        VICOM#CKTM01  KIT TECLADO / MOUSE         1,00
+  INELE#ECES02  CAJA ESTANCA PR 1007/110 15X155,00        VIFIB#FLAS01  LASER DE FIBRA OPTICA       1,00
+  INELE#ECES12  CAJA ESTANCA PR 1008/100 15X302,00        VIGRA#GLEC01  LECTORA GRABADORA DVD PORTATIL1,00
+  INELE#ECES05  CAJA ESTANCA PR 998/81 10X108,00          INFER#FLLA01  LLAVE FRANCESA              1,00
+  VICAM#CCAM44  CAMARA HIK AN DS-2CE16C0T-VFIR3F 721,00   VIFIB#FCON06  MEDIA CONVERTER GLC MC-006 20KM C/2,00
+  VICAM#CCAM116 CAMARA HIK DS-2CE19D0T-VFIT3F2,00         VIMON#MMON02  MONITOR LED 24-             1,00
+  VICAM#CCAM192 CAMARA HIK IP DS-2CD1023G2-I1,00          VICOM#CMOU02  MOUSE INALAMBRICO           1,00
+  ININD#ICAS01  CASCO DE SEGURIDAD         1,00           INFER#FPAL01  PALA DE PUNTA               1,00
+  INFER#FCIN05  CINTA AISLADORA BLANCA     1,00           INFER#FHER09  PERCUTORA                   1,00
+  INFER#FCIN06  CINTA AISLADORA NEGRA      3,00           INFER#FPER02  PERILLERO PHILIPS           1,00
+  INFER#FCIN01  CINTA PASACABLE            1,00           INFER#FPER01  PERILLERO PLANO             1,00
+ -------------------------------------------------------------------------------------------------------------
+
+  Página 1                                                                                  SIALAR SEGURIDAD SA
+                                                                                  LAGUNA 1258 - CAPITAL FEDERAL
+
+
+
+
+
+
+  Código     Nombre del Producto        Cantidad           Código    Nombre del Producto        Cantidad
+  INFER#FPIN03  PINZA AMPEROMETRICA        1,00
+  INFER#FPIN01  PINZA DE PUNTA             1,00
+  INFER#FPIN02  PINZA UNIVERSAL            1,00
+  INMAN#MEDIF02 PLUMERO TELESCOPICO EXTENSIBLE +1,00
+  INFER#FPOM01  POMO FASTIX X 100G         1,00
+  INFER#FPRE02  PRECINTO L3 NEGRO 20CM X 100U3,00
+  INFER#FLLA13  SET LLAVES ALLEN           1,00
+  VIDIS#DSWI15  SWITCH DAHUA 4 PUERTOS POE DH-PFS1,00
+  VIDIS#DSWI35  SWITCH TP LINK SG108 METALICO2,00
+  INFER#FHER18  TALADRO PERCUTOR Y DESTORNILLADO1,00
+  INELE#ETES04  TESTER CABLE DE RED Y BNC  1,00
+  ALTRA#TTRA01  TRAFO 16,5V                2,00
+  VICOM#CUBI01  UBIQUITI NANOSTATION M5    2,00
+  VIUPS#UUPS01  UPS 1000VA                 1,00
+  VIUPS#UUPS05  UPS 2000VA                 1,00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -------------------------------------------------------------------------------------------------------------
+
+
+  Página 2                                                                                  SIALAR SEGURIDAD SA
+                                                                                  LAGUNA 1258 - CAPITAL FEDERAL
